@@ -1,3 +1,7 @@
+# Dot file and folders
+.*
+!.gitignore
+
 # Logs
 logs
 *.log
@@ -14,24 +18,26 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
-# nyc test coverage
-.nyc_output
+# config
+!.editorconfig
 
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-
-# Dependency directories
+# 3rd party
+bower_components
 node_modules
 jspm_packages
 
-# Optional npm cache directory
-.npm
+# Translator/Compilers
+!.babelrc
 
-# Optional REPL history
-.node_repl_history
+# linters, type checkers
+!.eslintrc
+!.flowconfig
+
+# Output, build artifacts
+bin
+build
+dist
+obj
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release

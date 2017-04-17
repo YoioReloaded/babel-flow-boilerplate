@@ -1,0 +1,56 @@
+{
+  "name": "babel-flow-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate for node projects that use Babel and Flow",
+  "author": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6",
+    "npm": ">=2"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.x",
+    "babel-eslint": "^7.*",
+    "babel-preset-flow": "^6.x",
+    "dotenv": "^4.*",
+    "eslint": "^3.x",
+    "eslint-config-standard": "^10.x",
+    "eslint-plugin-flowtype": "^2.x",
+    "eslint-plugin-import": "^2.x",
+    "eslint-plugin-node": "^4.x",
+    "eslint-plugin-promise": "^3.x",
+    "eslint-plugin-standard": "^3.x",
+    "flow-bin": "*",
+    "gulp": "^3.x",
+    "gulp-babel": "^6.x",
+    "gulp-eslint": "^3.x",
+    "gulp-flowtype": "^1.x",
+    "standard": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YoioReloaded/babel-flow-boilerplate"
+  },
+  "bugs": {
+    "url": "https://github.com/YoioReloaded/babel-flow-boilerplate/issues",
+    "email": "yoioreloaded@github.com"
+  },
+  "keywords": [
+    "boilerplate",
+    "template",
+    "node",
+    "babel",
+    "flow",
+    "flowtype",
+    "eslint",
+    "standardjs",
+    "gulp",
+    "es6",
+    "es2015"
+  ],
+  "license": "BSD-3-Clause"
+}

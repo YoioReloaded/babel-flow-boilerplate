@@ -1,5 +1,6 @@
 # Babel and Flow Boilerplate for Nodejs projects
 
+[![Dependency Status](https://gemnasium.com/badges/github.com/YoioReloaded/babel-flow-boilerplate.svg)](https://gemnasium.com/github.com/YoioReloaded/babel-flow-boilerplate)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Babel and Flow Boilerplate for Nodejs projects is a template for Nodejs projects that need to use Babel and Flow.

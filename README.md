@@ -22,3 +22,8 @@ Clone the git repo — `git clone https://github.com/YoioReloaded/babel-flow-boi
 ## License
 
 The code is available under the [BSD-3-Clause](LICENSE).
+
+## Notes & Remarks
+Not yet tested using Nodejs 8 or above.
+
+>(Everything is a JoJo reference except this one) Lycopene!

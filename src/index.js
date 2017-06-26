@@ -1,9 +1,9 @@
 // @flow
-function foo (x: ?number): string {
+function hell2u (x: ?number): string {
   if (x) {
     return x
   }
-  return 'default string'
+  return 'I will give you hell'
 }
 
-foo(42)
+hell2u(42)

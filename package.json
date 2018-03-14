@@ -11,11 +11,11 @@
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.x",
-    "babel-eslint": "^7.x",
+    "babel-eslint": "^8.x",
     "babel-preset-flow": "^6.x",
     "dotenv": "^5.x",
     "eslint": "^4.x",
-    "eslint-config-standard": "^10.x",
+    "eslint-config-standard": "^11.x",
     "eslint-plugin-flowtype": "^2.x",
     "eslint-plugin-import": "^2.x",
     "eslint-plugin-node": "^6.x",
